@@ -16,7 +16,7 @@ body {
 iframe {
     width: 100%;
     border: none;
-    height: 350px;
+    height: 400px;
     
 }
 div.cover {
@@ -290,4 +290,9 @@ img.img-portfolio {
     .float-right img{
         width: 100%;
     }
+    iframe {
+        height: 250px;
+        
+    }
+    
   }
